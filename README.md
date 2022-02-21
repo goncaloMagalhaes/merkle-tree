@@ -1,6 +1,7 @@
 # Merkle Tree
 
-An interactive Merkle Tree for didactic purposes.
+An interactive Merkle Tree for didactic purposes.\
+This project is built with **React.js** + **Typescript**, using [Material UI](https://mui.com/) components.
 
 ## Start locally
 
