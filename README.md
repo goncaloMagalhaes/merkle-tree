@@ -1,7 +1,8 @@
 # Merkle Tree
 
 An interactive Merkle Tree for didactic purposes.\
-This project is built with **React.js** + **Typescript**, using [Material UI](https://mui.com/) components.
+This project is built with **React.js** + **Typescript**, using [Material UI](https://mui.com/) components.\
+You can find it at [https://goncalomagalhaes.github.io/merkle-tree/](https://goncalomagalhaes.github.io/merkle-tree/).
 
 ## Start locally
 
