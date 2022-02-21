@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merkle-tree/static/css/main.073c9b0a.css",
+    "main.js": "/merkle-tree/static/js/main.d25b8c47.js",
+    "index.html": "/merkle-tree/index.html",
+    "main.073c9b0a.css.map": "/merkle-tree/static/css/main.073c9b0a.css.map",
+    "main.d25b8c47.js.map": "/merkle-tree/static/js/main.d25b8c47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d25b8c47.js"
+  ]
+}
